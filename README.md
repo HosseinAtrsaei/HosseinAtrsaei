@@ -25,7 +25,7 @@ I have a Master's degree in **Information Processing** 📡 from **Télécom Par
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="40"/>
-<img src="https://img.icons8.com/fluency/48/ansys.png" width="40" title="HFSS - ANSYS"/>
+<img src="./assets/hfss.png" width="40" title="HFSS"/>
 </p>
 
 ---
