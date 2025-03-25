@@ -8,7 +8,7 @@
 ---
 
 ### 🎓 About me
-I have a Master's degree in **Information Processing** 📡 from **Télécom Paris**, and a Bachelor's in **Electrical Engineering** ⚡ from **Shiraz University**.
+I have a Master's degree in **Information Processing** 📡 from **Télécom Paris**, and a Bachelor's in **Electrical Engineering** ⚡ from **University of Tehran**.
 
 - 🎯 I'm passionate about **Signal Processing**, **Coding Theory**, and **Machine Learning**
 - 📶 I also enjoy working on **Telecommunications**, and real-time systems.
