@@ -24,8 +24,8 @@ I have a Master's degree in **Information Processing** 📡 from **Télécom Par
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="40"/>
-<img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-chip-cyber-security-flat-flat-juicy-fish.png" width="40" title="PSpice"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" width="40"/>
+![PSpice](https://img.shields.io/badge/PSpice-Cadence-red?style=for-the-badge&logo=cadence)
 </p>
 
 ---
