@@ -2,7 +2,7 @@
 
 ## Hossein Atrsaei | Telecommunication Student  
 **M.Sc. in Information Processing at Télécom Paris**  
-**B.Sc. in Electrical Engineering at Shiraz University**  
+**B.Sc. in Electrical Engineering at University of Tehran**  
 **Signal Processing | Communication Systems | Coding Theory | Machine Learning**
 
 ---
