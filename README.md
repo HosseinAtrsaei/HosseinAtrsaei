@@ -25,7 +25,6 @@ I have a Master's degree in **Information Processing** 📡 from **Télécom Par
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" width="40"/>
-![PSpice](https://img.shields.io/badge/PSpice-Cadence-red?style=for-the-badge&logo=cadence)
 </p>
 
 ---
