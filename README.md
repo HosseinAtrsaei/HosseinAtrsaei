@@ -1,4 +1,4 @@
-# Hello my dear friend 👋
+# Hello 👋
 
 ## Hossein Atrsaei | Telecommunication Student  
 **M.Sc. in Information Processing at Télécom Paris**  
